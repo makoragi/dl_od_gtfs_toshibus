@@ -1,2 +1,2 @@
 "feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
-"熊本都市バス","https://www.kumamoto-toshibus.co.jp/","ja","20250104","20250610","20250104_20250309"
+"熊本都市バス","https://www.kumamoto-toshibus.co.jp/","ja","20250104","20250611","20250104_20250310"
